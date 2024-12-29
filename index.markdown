@@ -5,7 +5,9 @@
 layout: home
 ---
 <details>
-<summary><h2>Personality Assessments</h2></summary>
+<summary>
+<h2>Personality Assessments</h2>
+</summary>
 <h3>Myers–Briggs Type Indicator: ENTJ-A</h3>
-![alt text](assets/ENTJ%20Personality%20(Commander)%2016Personalities.png)
+<img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
 </details>
