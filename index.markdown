@@ -11,7 +11,6 @@ layout: home
 </details>
 
 <h1>Dropdown Example</h1>
-
     <details>
         <summary><h2>Cables</h2></summary>
         <div class="dropdown-content">
