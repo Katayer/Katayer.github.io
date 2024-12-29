@@ -4,17 +4,8 @@
 
 layout: home
 ---
-
-# please work!
-
 <details>
-<summary>
-
-# Personality Assessments
-
-</summary>
-
-### Myers–Briggs Type Indicator: ENTJ-A
-
+<summary><h2>Personality Assessments</h2></summary>
+<h3>Myers–Briggs Type Indicator: ENTJ-A</h3>
 ![alt text](assets/ENTJ%20Personality%20(Commander)%2016Personalities.png)
 </details>
