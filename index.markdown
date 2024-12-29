@@ -4,8 +4,7 @@
 
 layout: home
 ---
-<details>
-<summary>
+<details><summary>
 <h2>Personality Assessments</h2>
 </summary>
 <h3>Myers–Briggs Type Indicator: ENTJ-A</h3>
