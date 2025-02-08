@@ -5,18 +5,18 @@
 layout: home
 ---
 
-<a href="resume">Résumé<a>
+<a href="resume" style="font-size: 2em;">Résumé<a>
 
 <details>
-    <summary><span style="font-size: 2em;">Personality Assessments</span></summary>
+    <summary style="font-size: 2em;">Personality Assessments</summary>
         <details style="margin-left: 64px;">
-            <summary><span style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</span></summary>
+            <summary style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</summary>
             <img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
         </details>
 </details>
 
 <details>
-    <summary><span style="font-size: 2em;">Cognitive Assessments</span></summary>
+    <summary style="font-size: 2em;">Cognitive Assessments</summary>
         <details style="margin-left: 64px;">
             <summary style="font-size: 1.5em;">Work in progress</summary>
         </details>
