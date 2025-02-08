@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<a href="resume.markdown"><h2>Résumé</h2><a>
+<h2><a href="resume.markdown">Résumé><a></h2>
 
 <details>
     <summary><span style="font-size: 1.5em;">Personality Assessments</span></summary>
