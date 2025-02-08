@@ -38,6 +38,16 @@ layout: home
             <summary style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</summary>
             <img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
         </details>
+
+        <details style="margin-left: 64px;">
+            <summary style="font-size: 1.5em;">Big Five</summary>
+
+        </details>
+
+        <details style="margin-left: 64px;">
+            <summary style="font-size: 1.5em;">DISC Assessment</summary>
+                <img src="assets/downloadfile.png" alt="change">
+        </details>
 </details>
 
 <details>
