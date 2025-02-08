@@ -10,27 +10,27 @@ layout: home
 <details>
     <summary style="font-size: 2em;">Education<summary>
 
-<details>
+</details>
 
 <details>
     <summary style="font-size: 2em;">Work History<summary>
 
-<details>
+</details>
 
 <details>
     <summary style="font-size: 2em;">Accomplishments<summary>
 
-<details>
+</details>
 
 <details>
     <summary style="font-size: 2em;">Certifications<summary>
 
-<details>
+</details>
 
 <details>
     <summary style="font-size: 2em;">Skills<summary>
 
-<details>
+</details>
 
 <details>
     <summary style="font-size: 2em;">Personality Assessments</summary>
