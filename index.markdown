@@ -8,27 +8,27 @@ layout: home
 <a href="resume" style="font-size: 2em;">Résumé<a>
 
 <details>
-    <summary style="font-size: 2em;">Education<summary>
+    <summary style="font-size: 2em;">Education</summary>
         work in progress
 </details>
 
 <details>
-    <summary style="font-size: 2em;">Work History<summary>
+    <summary style="font-size: 2em;">Work History</summary>
         work in progress
 </details>
 
 <details>
-    <summary style="font-size: 2em;">Accomplishments<summary>
+    <summary style="font-size: 2em;">Accomplishments</summary>
         work in progress
 </details>
 
 <details>
-    <summary style="font-size: 2em;">Certifications<summary>
+    <summary style="font-size: 2em;">Certifications</summary>
         work in progress
 </details>
 
 <details>
-    <summary style="font-size: 2em;">Skills<summary>
+    <summary style="font-size: 2em;">Skills</summary>
         work in progress
 </details>
 
