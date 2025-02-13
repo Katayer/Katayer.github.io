@@ -13,6 +13,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Education</summary>
+        <pre>
         Bachelor of Arts | University of Notre Dame | Beginning Feb 2025
         Undergraduate Certificate in Science (Transferring) | University of Tasmania | Jul 2024–Dec 2024
             · Student representative
@@ -23,6 +24,7 @@ develop my skills while contributing to a dynamic team.
             · Head of Year (yr. 7, 2019)
             · ICAS Science High Distinction (2019)
             · APSMO Mathematical Olympiad Highest Individual Score (2019)
+        </pre>
 </details>
 
 <details>
