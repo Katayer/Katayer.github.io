@@ -5,11 +5,24 @@
 layout: home
 ---
 
-<a href="resume" style="font-size: 2em;">Résumé<a>
+Enthusiastic and organised student recently relocated to Sydney, with hands-on experience in
+customer service and hospitality. Skilled at maintaining composure and resolving conflicts with
+challenging customers, as well as thriving under pressure in fast-paced environments. Seeking a part-
+time or casual role with hours that can fit around study commitments (ideally weekends) to further
+develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Education</summary>
-        work in progress
+        Bachelor of Arts | University of Notre Dame | Beginning Feb 2025
+        Undergraduate Certificate in Science (Transferring) | University of Tasmania | Jul 2024–Dec 2024
+            · Student representative
+            · 7.0 GPA
+        Various Single Subjects | Open Universities Australia | Aug 2020–Dec 2023
+            · 100% mark in Foundations of Mathematics (Murdoch University, 2020)
+        Years 7-11 | Nepean Creative and Performing Arts High School | 2019–Aug 2020
+            · Head of Year (yr. 7, 2019)
+            · ICAS Science High Distinction (2019)
+            · APSMO Mathematical Olympiad Highest Individual Score (2019)
 </details>
 
 <details>
