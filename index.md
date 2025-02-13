@@ -13,7 +13,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Education</summary>
-        <div style="white-space: pre;">
+        <div style="white-space: pre-wrap;">
         Bachelor of Arts | University of Notre Dame | Beginning Feb 2025
         Undergraduate Certificate in Science (Transferring) | University of Tasmania | Jul 2024–Dec 2024
             · Student representative
@@ -29,7 +29,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Work History</summary>
-        <div style="white-space: pre;">
+        <div style="white-space: pre-wrap;">
         Food & Beverage Team Member (Front of House) | Scenic World | Jun 2024–Jan 2025
             · Provided exceptional customer service in a fast-paced environment, handling high-pressure situations and effectively resolving customer concerns
             · Operated Point of Sale systems (in both café and restaurant settings), processing transactions accurately and efficiently
@@ -47,7 +47,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Certifications</summary>
-        <div style="white-space: pre;">
+        <div style="white-space: pre-wrap;">
         · RSA
         · Food Handler Basics Certificate
         </div>
