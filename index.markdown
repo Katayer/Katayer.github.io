@@ -60,7 +60,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Personality Assessments</summary>
-        <div>
+        <div style="margin-left: 20px;">
         <details>
             <summary style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</summary>
                 <img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
@@ -80,9 +80,10 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Cognitive Assessments</summary>
-        <div>
+        <div style="margin-left: 20px;">>
         <details>
             <summary style="font-size: 1.5em;">Work in progress</summary>
+
         </details>
         </div>
 </details>
