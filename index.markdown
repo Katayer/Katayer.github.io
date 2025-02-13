@@ -29,7 +29,15 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Work History</summary>
-        work in progress
+        <div style="white-space: pre;">
+        Food & Beverage Team Member (Front of House) | Scenic World | Jun 2024–Jan 2025
+            · Provided exceptional customer service in a fast-paced environment, handling high-pressure situations and effectively resolving customer concerns
+            · Operated Point of Sale systems (in both café and restaurant settings), processing transactions accurately and efficiently
+            · Collaborated with tour guides and group leaders to ensure an outstanding guest experience
+            · Performed various tasks for corporate events, weddings, and other functions, including setup and waitstaff duties
+        Academic Tutor | Just Think About It Education | Feb 2023–Jun 2024
+        · 1-1 Maths, English, and Science tuition up to Year 12
+        </div>
 </details>
 
 <details>
