@@ -36,7 +36,7 @@ develop my skills while contributing to a dynamic team.
             · Collaborated with tour guides and group leaders to ensure an outstanding guest experience
             · Performed various tasks for corporate events, weddings, and other functions, including setup and waitstaff duties
         Academic Tutor | Just Think About It Education | Feb 2023–Jun 2024
-        · 1-1 Maths, English, and Science tuition up to Year 12
+            · 1-1 Maths, English, and Science tuition up to Year 12
         </div>
 </details>
 
