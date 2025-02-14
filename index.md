@@ -20,7 +20,7 @@ develop my skills while contributing to a dynamic team.
         · 7.0 GPA
     <b>Various Single Subjects</b> | <i>Open Universities Australia<i> | Aug 2020–Dec 2023
         · 100% mark in Foundations of Mathematics (Murdoch University, 2020)
-    <b>Years 7-11<b> | <i>Nepean Creative and Performing Arts High School<i> | 2019–Aug 2020
+    <b>Years 7-11</b> | <i>Nepean Creative and Performing Arts High School<i> | 2019–Aug 2020
         · Head of Year (yr. 7, 2019)
         · ICAS Science High Distinction (2019)
         · APSMO Mathematical Olympiad Highest Individual Score (2019)
@@ -31,12 +31,16 @@ develop my skills while contributing to a dynamic team.
     <summary style="font-size: 2em;">Work History</summary>
         <div style="white-space: pre-wrap;">
     <b>Food & Beverage Team Member (Front of House)</b> | <i>Scenic World</i> | Jun 2024–Jan 2025
-        · Provided exceptional customer service in a fast-paced environment, handling high-pressure situations and effectively resolving customer concerns
-        · Operated Point of Sale systems (in both café and restaurant settings), processing transactions accurately and efficiently
-        · Collaborated with tour guides and group leaders to ensure an outstanding guest experience
-        · Performed various tasks for corporate events, weddings, and other functions, including setup and waitstaff duties
+    <ul>
+        <li>Provided exceptional customer service in a fast-paced environment, handling high-pressure situations and effectively resolving customer concerns</li>
+        <li>Operated Point of Sale systems (in both café and restaurant settings), processing transactions accurately and efficiently</li>
+        <li>Collaborated with tour guides and group leaders to ensure an outstanding guest experience</li>
+        <li>Performed various tasks for corporate events, weddings, and other functions, including setup and waitstaff duties</li>
+    </ul>
     <b>Academic Tutor</b> | <i>Just Think About It Education</i> | Feb 2023–Jun 2024
-        · 1-1 Maths, English, and Science tuition up to Year 12
+    <ul>
+        <li>1-1 Maths, English, and Science tuition up to Year 12</li>
+    </ul>
         </div>
 </details>
 
