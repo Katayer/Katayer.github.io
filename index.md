@@ -53,12 +53,13 @@ develop my skills while contributing to a dynamic team.
 <details>
     <summary style="font-size: 2em;">Accomplishments</summary>
         <div style="margin-left: 30px;">
+
         </div>
 </details>
 
 <details>
     <summary style="font-size: 2em;">Certifications</summary>
-        <div style="margin-left: 30px; white-space: pre-line;">
+        <div style="margin-left: 30px;">
             <ul>
                 <li>RSA</li>
                 <li>Food Handler Basics Certificate</li>
@@ -69,6 +70,16 @@ develop my skills while contributing to a dynamic team.
 <details>
     <summary style="font-size: 2em;">Skills</summary>
         <div style="margin-left: 30px;">
+            <h3>Hard Skills</h3>
+            <ul>
+                <li>Piano (Grade 8)</li>
+                <li>Violin (Grade 5)</li>
+                <li>Microsoft Office Suite</li>
+            </ul>
+            <h3>Soft Skills</h3>
+            <ul>
+                <li>Resilience</li>
+            </ul>
         </div>
 </details>
 
