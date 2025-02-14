@@ -100,7 +100,7 @@ develop my skills while contributing to a dynamic team.
         </details>
 
         <details>
-            <summary style="font-size: 1.5em;">DISC Assessment</summary>
+            <summary style="font-size: 1.5em;">DISC Assessment: D/C I</summary>
                 <img src="assets/downloadfile.png" alt="change">
         </details>
         </div>
