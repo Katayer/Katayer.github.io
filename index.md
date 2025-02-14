@@ -13,7 +13,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Education</summary>
-        <div style="white-space: pre-line;">
+        <div style="margin-left: 30px; white-space: pre-line;">
             <b>Bachelor of Arts</b> | <i>University of Notre Dame</i> | Beginning Feb 2025
             <b>Undergraduate Certificate in Science (Transferred)</b> | <i>University of Tasmania</i> | Jul 2024–Dec 2024
             <ul>    
@@ -35,7 +35,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Work History</summary>
-        <div style="white-space: pre-line;">
+        <div style="margin-left: 30px; white-space: pre-line;">
             <b>Food & Beverage Team Member (Front of House)</b> | <i>Scenic World</i> | Jun 2024–Jan 2025
             <ul>
                 <li>Provided exceptional customer service in a fast-paced environment, handling high-pressure situations and effectively resolving customer concerns</li>
@@ -52,12 +52,13 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Accomplishments</summary>
-        work in progress
+        <div style="margin-left: 30px;">
+        </div>
 </details>
 
 <details>
     <summary style="font-size: 2em;">Certifications</summary>
-        <div style="white-space: pre-line;">
+        <div style="margin-left: 30px; white-space: pre-line;">
             <ul>
                 <li>RSA</li>
                 <li>Food Handler Basics Certificate</li>
@@ -67,7 +68,7 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Skills</summary>
-        <div>
+        <div style="margin-left: 30px;">
         </div>
 </details>
 
