@@ -20,11 +20,11 @@ develop my skills while contributing to a dynamic team.
                 <li>Student representative</li>
                 <li>7.0 GPA</li>
             </ul>
-            <b>Various Single Subjects</b> | <i>Open Universities Australia<i> | Aug 2020–Dec 2023
+            <b>Various Single Subjects</b> | <i>Open Universities Australia</i> | Aug 2020–Dec 2023
             <ul>
                 <li>100% mark in Foundations of Mathematics (Murdoch University, 2020)</li>
             </ul>
-            <b>Years 7-11</b> | <i>Nepean Creative and Performing Arts High School<i> | 2019–Aug 2020
+            <b>Years 7-11</b> | <i>Nepean Creative and Performing Arts High School</i> | 2019–Aug 2020
             <ul>
                 <li>Head of Year (yr. 7, 2019)</li>
                 <li>ICAS Science High Distinction (2019)</li>
