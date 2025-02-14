@@ -89,19 +89,19 @@ develop my skills while contributing to a dynamic team.
 <details>
     <summary style="font-size: 2em;">Personality Assessments</summary>
         <div style="margin-left: 30px;">
-        <details>
-            <summary style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</summary>
-                <img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
-        </details>
+            <details>
+                <summary style="font-size: 1.5em;">Myers–Briggs Type Indicator: ENTJ-A</summary>
+                    <img src="assets/ENTJ Personality (Commander) 16Personalities.png" alt="81% Extraverted, 81% Intuitive, 67% Thinking, 69% Judging, 89% Assertive">
+            </details>
 
-        <details>
-            <summary style="font-size: 1.5em;">Big Five</summary>
-                <img src="assets/BIG5-graphic.png" alt="84% Extroversion, 97% Emotional Stability, 37% Agreeableness, 89% Conscientiousness, 79% Intellect/Imagination">
-        </details>
+            <details>
+                <summary style="font-size: 1.5em;">Big Five</summary>
+                    <img src="assets/BIG5-graphic.png" alt="84% Extroversion, 97% Emotional Stability, 37% Agreeableness, 89% Conscientiousness, 79% Intellect/Imagination">
+            </details>
 
-        <details>
-            <summary style="font-size: 1.5em;">DISC Assessment: D/C I</summary>
-                <img src="assets/downloadfile.png" alt="change">
+            <details>
+                <summary style="font-size: 1.5em;">DISC Profile: D I/C</summary>
+                    <img src="assets/open-disc.png" alt="">
         </details>
         </div>
 </details>
