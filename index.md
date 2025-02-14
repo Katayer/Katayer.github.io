@@ -16,14 +16,20 @@ develop my skills while contributing to a dynamic team.
         <div style="white-space: pre-wrap;">
     <b>Bachelor of Arts</b> | <i>University of Notre Dame</i> | Beginning Feb 2025
     <b>Undergraduate Certificate in Science (Transferred)</b> | <i>University of Tasmania</i> | Jul 2024–Dec 2024
-        · Student representative
-        · 7.0 GPA
+    <ul>    
+        <li>Student representative</li>
+        <li>7.0 GPA</li>
+    </ul>
     <b>Various Single Subjects</b> | <i>Open Universities Australia<i> | Aug 2020–Dec 2023
-        · 100% mark in Foundations of Mathematics (Murdoch University, 2020)
+    <ul>
+        <li>100% mark in Foundations of Mathematics (Murdoch University, 2020)</li>
+    </ul>
     <b>Years 7-11</b> | <i>Nepean Creative and Performing Arts High School<i> | 2019–Aug 2020
-        · Head of Year (yr. 7, 2019)
-        · ICAS Science High Distinction (2019)
-        · APSMO Mathematical Olympiad Highest Individual Score (2019)
+    <ul>
+        <li>Head of Year (yr. 7, 2019)</li>
+        <li>ICAS Science High Distinction (2019)</li>
+        <li>APSMO Mathematical Olympiad Highest Individual Score (2019)</li>
+    </ul>
         </div>
 </details>
 
