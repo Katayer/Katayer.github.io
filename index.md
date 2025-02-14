@@ -73,13 +73,13 @@ develop my skills while contributing to a dynamic team.
 <details>
     <summary style="font-size: 2em;">Skills</summary>
         <div style="margin-left: 30px;">
-            <h3>Hard Skills</h3>
+            <p style="font-size: 1.5em;">Hard Skills</p>
             <ul>
                 <li>Piano (Grade 8)</li>
                 <li>Violin (Grade 5)</li>
                 <li>Microsoft Office Suite</li>
             </ul>
-            <h3>Soft Skills</h3>
+            <p style="font-size: 1.5em;">Soft Skills</p>
             <ul>
                 <li>Resilience</li>
             </ul>
