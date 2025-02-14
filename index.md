@@ -57,15 +57,18 @@ develop my skills while contributing to a dynamic team.
 
 <details>
     <summary style="font-size: 2em;">Certifications</summary>
-        <div style="white-space: pre-wrap;">
-        · RSA
-        · Food Handler Basics Certificate
+        <div style="white-space: pre-line;">
+            <ul>
+                <li>RSA</li>
+                <li>Food Handler Basics Certificate</li>
+            </ul>
         </div>
 </details>
 
 <details>
     <summary style="font-size: 2em;">Skills</summary>
-        
+        <div>
+        </div>
 </details>
 
 <details>
@@ -91,9 +94,9 @@ develop my skills while contributing to a dynamic team.
 <details>
     <summary style="font-size: 2em;">Cognitive Assessments</summary>
         <div style="margin-left: 30px;">
-        <details>
-            <summary style="font-size: 1.5em;">Work in progress</summary>
+            <details>
+                <summary style="font-size: 1.5em;">Work in progress</summary>
 
-        </details>
+            </details>
         </div>
 </details>
