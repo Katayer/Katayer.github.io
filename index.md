@@ -96,7 +96,37 @@ develop my skills while contributing to a dynamic team.
 
             <details>
                 <summary style="font-size: 1.5em;">Big Five</summary>
-                    <img src="assets/BIG5-graphic.png" alt="84% Extroversion, 97% Emotional Stability, 37% Agreeableness, 89% Conscientiousness, 79% Intellect/Imagination">
+                    <div class="chart">
+                        <div class="bar">
+                            <span class="label">Openness</span>
+                            <span class="fill" style="width: 90%"></span>
+                            <span class="value">90</span>
+                        </div>
+
+                        <div class="bar">
+                            <span class="label">Conscientiousness</span>
+                            <span class="fill" style="width: 85%"></span>
+                            <span class="value">85</span>
+                        </div>
+
+                        <div class="bar">
+                            <span class="label">Extraversion</span>
+                            <span class="fill" style="width: 91%"></span>
+                            <span class="value">91</span>
+                        </div>
+
+                        <div class="bar">
+                            <span class="label">Agreeableness</span>
+                            <span class="fill" style="width: 41%"></span>
+                            <span class="value">41</span>
+                        </div>
+
+                        <div class="bar">
+                            <span class="label">Emotional Stability</span>
+                            <span class="fill" style="width: 1%"></span>
+                            <span class="value">1</span>
+                        </div>
+                    </div>
             </details>
 
             <details>
