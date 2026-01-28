@@ -5,6 +5,36 @@
 layout: home
 ---
 
+<style>
+    .chart {
+      width: 600px;
+      font-family: Inter, sans-serif;
+    }
+
+    .bar {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+    }
+
+    .label {
+      width: 180px;
+    }
+
+    .fill {
+      height: 14px;
+      background: #2f6bff;
+      flex-grow: 1;
+      border-radius: 7px;
+    }
+
+    .value {
+      width: 40px;
+      text-align: right;
+      margin-left: 12px;
+    }
+  </style>
+
 Enthusiastic and organised student recently relocated to Sydney, with hands-on experience in
 customer service and hospitality. Skilled at maintaining composure and resolving conflicts with
 challenging customers, as well as thriving under pressure in fast-paced environments. Seeking a part-
@@ -123,7 +153,7 @@ develop my skills while contributing to a dynamic team.
 
                         <div class="bar">
                             <span class="label">Emotional Stability</span>
-                            <span class="fill" style="width: 1%"></span>
+                            <span class="fill" style="width: 99%"></span>
                             <span class="value">1</span>
                         </div>
                     </div>
